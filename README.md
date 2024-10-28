@@ -112,14 +112,3 @@ Once the backend is running, access the API documentation at:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## 👥 Authors
-
-- **Your Name** - *Initial work* - [YourGithub](https://github.com/YourUsername)
-
-## 📧 Contact
-
-- Project Link: [https://github.com/YourUsername/9Atra-Backend](https://github.com/YourUsername/9Atra-Backend)
