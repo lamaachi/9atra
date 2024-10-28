@@ -62,8 +62,8 @@
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YourUsername/9Atra-Backend.git
-cd 9Atra-Backend
+git clone https://github.com/lamaachi/Blood-Donation-BackEnd
+cd Blood-Donation-BackEnd
 ```
 
 2. Configure database in `application.properties`:
